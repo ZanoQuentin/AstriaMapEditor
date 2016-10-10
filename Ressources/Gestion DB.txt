@@ -1,0 +1,28 @@
+-> LECTURE -> area_data
+-> ECRITURE-> endfight_action
+-> ECRITURE-> hdvs
+-> ECRITURE-> houses
+-> LECTURE -> interactive_objects_data
+-> ECRITURE-> maps
+-> ECRITURE-> mobgroups_fix
+-> LECTURE -> monsters
+-> ECRITURE-> mountpark_data
+-> ECRITURE-> npcs
+-> LECTURE -> npc_template
+-> ECRITURE-> scripted_cells
+-> LECTURE -> subarea_data
+-> ECRITURE-> zaapi
+-> ECRITURE-> zaaps
+
+Mobs
+MobGroupFix
+--HDVS
+--Maison
+--Enclos
+PNJs
+--Zaapi
+--Zaap
+
+Areas
+SubAreas
+EndFightAction

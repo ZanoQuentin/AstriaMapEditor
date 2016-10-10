@@ -1,0 +1,51 @@
+	|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+	| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |
+	| |			   _      __       _       			| |
+	| |			  /_\    / _| __ _(_)_ __ ___ 		| |
+	| |			 //_\\  | |_ / _` | | '__/ _ \		| |
+	| |			/  _  \ |  _| (_| | | | |  __/		| |
+	| |			\_/ \_/ |_|  \__,_|_|_|  \___|		| |
+	| |												| |
+	| |_____________________________________________| |
+	|_________________________________________________|
+
+
+  Nouveautés
+  ¯¯¯¯¯¯¯¯¯¯
+-> Géoposition : Génération lignes SWF maps
+-> Géoposition : Possibilité de changer les positions après création de la géoposition
+-> Géoposition : Chargement de géoposition rapide
+-> Bouton pour "décrocher" la map de l'interface MDI
+-> GroundSlope/GroundLevel vue sur la grille
+-> Bouton inverse puzzle
+
+-> Selection
+	-> Outil copier coller
+	-> Outil séléctionner une parcelle
+	-> Possibilité de poser des tiles dans toute une sélection
+-> Placement de Pnj
+-> Possibilité d'annuler la dernière action
+
+-> Sauvegarde en fichier .axml
+
+-> Configuration des maisons (sql + swf)
+-> Configuration des enclos (sql + swf)
+-> Configuration des hdvs (sql + swf)
+-> Configuration des zaaps (sql + swf)
+-> Configuration des zaapis (sql + swf)
+
+-> Public -> Friend !
+
+
+  Ydainna
+  ¯¯¯¯¯¯¯
+- Ajouter une fonction de recherche de tile dans tous les dossier (wlg dofus ect) via l'id (ex: 400)
+- Ajouter une fonction suppression d'un type de case spécifique (ex: supprimer toutes les type de case non marchable de la map)
+- Ajouter une fonction suppression d'un tiles en masse sur une map comme ci-dessu (utiles pour le type sole) via l'id
+- Mettre la grille en dessous des tiles types object et non dessu idem pour les cellid
+- Régler le bug de dossier que si ils ont le m^me noms mais pas dans le m^me type de style (wlg et d1.29) ils regroupe tous dans les deux dossier
+- Ajouter une fonctionne de renamme den tiles dans un dossier qui ce trouve la ou y a les dossier ''object, ground et background'' et le nommer renamer (?) pour y mettre les tile a rename 
+- Ajouter une fonction dans la fonction ci-dessus pour changer léxtantion d'un fichier (ex: passer d'un format ;jpeg a un format . png)
+- Ajouter la fonction de cryptage key RSA comme les map officielle du client
+- Supprimer plusieur fonctions inutiles (fonctions qui ne fonctionnent pas entre autres !) pour la réorganisation des menu plus propre et intuitife...
+- Essayer de debug les niveaux de pante des soles

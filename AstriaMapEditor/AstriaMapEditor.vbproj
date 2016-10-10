@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5490E563-F2CB-4129-B7E0-BB169E2EDCA3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AstriaMapEditor.My.MyApplication</StartupObject>
+    <RootNamespace>AstriaMapEditor</RootNamespace>
+    <AssemblyName>Astria Map Editor</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Astria Map Editor.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Astria Map Editor.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo map.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\DupliqueMap\bin\Debug\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\- Ressources\DLL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SwfDotNet.IO, Version=0.9.0.24398, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\- Ressources\DLL\swfdotnet-1.0-RC1\bin\SwfDotNet.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main\Connexion.Designer.vb">
+      <DependentUpon>Connexion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Connexion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maps\MovementEnum.vb" />
+    <Compile Include="Selector\ImportMapByBDD.Designer.vb">
+      <DependentUpon>ImportMapByBDD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selector\ImportMapByBDD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selector\MobGroup.Designer.vb">
+      <DependentUpon>MobGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selector\MobGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Geoposition\CellGeo.vb" />
+    <Compile Include="Patterns Dofus\Monster.vb" />
+    <Compile Include="Patterns Dofus\SubArea.vb" />
+    <Compile Include="MapEditor\Tile.vb" />
+    <Compile Include="Options\MyOptions.vb" />
+    <Compile Include="Patterns Dofus\Map.vb" />
+    <Compile Include="Selector\InputSizeMap.Designer.vb">
+      <DependentUpon>InputSizeMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selector\InputSizeMap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selector\SelectMap.Designer.vb">
+      <DependentUpon>SelectMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selector\SelectMap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Geoposition\Geoposition.Designer.vb">
+      <DependentUpon>Geoposition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Geoposition\Geoposition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\Manuel.Designer.vb">
+      <DependentUpon>Manuel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\Manuel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\TrieurGfx.Designer.vb">
+      <DependentUpon>TrieurGfx.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\TrieurGfx.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maps\MapData\Builder.vb" />
+    <Compile Include="Selector\BackgroundManager.Designer.vb">
+      <DependentUpon>BackgroundManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selector\BackgroundManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapEditor\Cell.vb" />
+    <Compile Include="Selector\MusicManager.Designer.vb">
+      <DependentUpon>MusicManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selector\MusicManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapEditor\MapEditor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapEditor\MapEditor.Designer.vb">
+      <DependentUpon>MapEditor.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options\Options.Designer.vb">
+      <DependentUpon>Options.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Options\Options.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maps\MapData\Decryptage.vb" />
+    <Compile Include="Maps\FightCell\FightCellsManager.vb" />
+    <Compile Include="CONSTANTS\FileManager.vb" />
+    <Compile Include="SWF\Flasm.vb" />
+    <Compile Include="MySQL.vb" />
+    <Compile Include="SWF\UnPacker.vb" />
+    <Compile Include="XML\XMLLoader.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Patterns Dofus\Area.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Main\Connexion.resx">
+      <DependentUpon>Connexion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selector\ImportMapByBDD.resx">
+      <DependentUpon>ImportMapByBDD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selector\InputSizeMap.resx">
+      <DependentUpon>InputSizeMap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selector\MobGroup.resx">
+      <DependentUpon>MobGroup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selector\SelectMap.resx">
+      <DependentUpon>SelectMap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selector\BackgroundManager.resx">
+      <DependentUpon>BackgroundManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Geoposition\Geoposition.resx">
+      <DependentUpon>Geoposition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\Manuel.resx">
+      <DependentUpon>Manuel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\TrieurGfx.resx">
+      <DependentUpon>TrieurGfx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selector\MusicManager.resx">
+      <DependentUpon>MusicManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapEditor\MapEditor.resx">
+      <DependentUpon>MapEditor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options\Options.resx">
+      <DependentUpon>Options.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo map.ico" />
+    <None Include="Resources\logo_map.png" />
+    <None Include="Resources\fleche-gauche-icone-8563-32.png" />
+    <None Include="Resources\droite-icone-3813-32.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
