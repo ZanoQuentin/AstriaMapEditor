@@ -1,0 +1,1848 @@
+<?xml version="1.0"?>
+<ArrayOfSubArea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SubArea>
+    <ID>0</ID>
+    <Name>//Amakna</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>1</ID>
+    <Name>Port de Madrestam</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>2</ID>
+    <Name>La montagne des Craqueleurs</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>3</ID>
+    <Name>Le champ des Ingalsses</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>4</ID>
+    <Name>La for?t d'Amakna</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>5</ID>
+    <Name>Le coin des Bouftous</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>6</ID>
+    <Name>Le cimeti?re</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>7</ID>
+    <Name>Les cryptes</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>8</ID>
+    <Name>Campement des Bworks</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>9</ID>
+    <Name>La for?t mal?fique</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>10</ID>
+    <Name>Le village</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>11</ID>
+    <Name>Territoire des Porcos</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>12</ID>
+    <Name>La p?ninsule des gel?es</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>13</ID>
+    <Name>Le temple F?ca</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>14</ID>
+    <Name>Le temple Osamodas</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>15</ID>
+    <Name>Le temple Enutrof</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>16</ID>
+    <Name>Le temple Sram</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>17</ID>
+    <Name>Le temple X?lor</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>18</ID>
+    <Name>Le temple Ecaflip</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>19</ID>
+    <Name>Le temple Iop</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>20</ID>
+    <Name>Le temple Cr? </Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>21</ID>
+    <Name>Le temple Sadida</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>22</ID>
+    <Name>Bord de la f?ret mal?fique</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>23</ID>
+    <Name>La presqu'?le des Dragoeufs</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>25</ID>
+    <Name>Sous-terrains des Wabbits</Name>
+    <Area>1</Area>
+  </SubArea>
+  <SubArea>
+    <ID>26</ID>
+    <Name>Le temple Eniripsa</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>27</ID>
+    <Name>C?te d'Asse</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>28</ID>
+    <Name>Garnison d'Amakna</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>29</ID>
+    <Name>Souterrain</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>30</ID>
+    <Name>Le berceau</Name>
+    <Area>4</Area>
+  </SubArea>
+  <SubArea>
+    <ID>31</ID>
+    <Name>Le mar?cage</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>32</ID>
+    <Name>//Sufokia</Name>
+    <Area>5</Area>
+  </SubArea>
+  <SubArea>
+    <ID>33</ID>
+    <Name>//For?t des Abraknydes</Name>
+    <Area>6</Area>
+  </SubArea>
+  <SubArea>
+    <ID>34</ID>
+    <Name>//Prison</Name>
+    <Area>3</Area>
+  </SubArea>
+  <SubArea>
+    <ID>35</ID>
+    <Name>Porte de Sufokia</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>37</ID>
+    <Name>//Bonta</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>38</ID>
+    <Name>//Plaine de Cania</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>39</ID>
+    <Name>Le repaire des Roublards</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>41</ID>
+    <Name>Le temple Sacrieur</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>42</ID>
+    <Name>Route de Bonta</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>43</ID>
+    <Name>Fortification de Bonta</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>44</ID>
+    <Name>Quartier des Boulangers</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>45</ID>
+    <Name>Quartier de la Milice</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>46</ID>
+    <Name>Quartier des Bouchers</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>47</ID>
+    <Name>Quartier des Forgerons</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>48</ID>
+    <Name>Quartier des B?cherons</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>49</ID>
+    <Name>Quartier des Bricoleurs</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>50</ID>
+    <Name>Quartier des Tailleurs</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>51</ID>
+    <Name>Quartier des Bijoutiers</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>53</ID>
+    <Name>//Br?kmar</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>54</ID>
+    <Name>Massif de Cania</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>55</ID>
+    <Name>P?nates du Corbac</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>56</ID>
+    <Name>For?t de Cania</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>57</ID>
+    <Name>//Lande de Sidimote</Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>59</ID>
+    <Name>Cimeti?re de Bonta</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>61</ID>
+    <Name>Cimeti?re des Tortur?s</Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>62</ID>
+    <Name>//Village Dopeul</Name>
+    <Area>13</Area>
+  </SubArea>
+  <SubArea>
+    <ID>63</ID>
+    <Name>Prisme des Dopeuls</Name>
+    <Area>13</Area>
+  </SubArea>
+  <SubArea>
+    <ID>64</ID>
+    <Name>Premi?re salle du prisme</Name>
+    <Area>13</Area>
+  </SubArea>
+  <SubArea>
+    <ID>65</ID>
+    <Name>Seconde salle du prisme</Name>
+    <Area>13</Area>
+  </SubArea>
+  <SubArea>
+    <ID>66</ID>
+    <Name>Troisi?me salle du prisme</Name>
+    <Area>13</Area>
+  </SubArea>
+  <SubArea>
+    <ID>67</ID>
+    <Name>Quatri?me salle du prisme</Name>
+    <Area>13</Area>
+  </SubArea>
+  <SubArea>
+    <ID>68</ID>
+    <Name>Les Champs de Cania</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>69</ID>
+    <Name>Bois de Litneg</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>70</ID>
+    <Name>Plaines Rocheuses</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>71</ID>
+    <Name>Gisgoul, le village devast? </Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>72</ID>
+    <Name>Fa?ade de Br?kmar</Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>73</ID>
+    <Name>Egout de Bonta</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>74</ID>
+    <Name>//Entrainement Dopeuls</Name>
+    <Area>13</Area>
+  </SubArea>
+  <SubArea>
+    <ID>75</ID>
+    <Name>Egout de Br?kmar</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>76</ID>
+    <Name>//Village Brigandins</Name>
+    <Area>14</Area>
+  </SubArea>
+  <SubArea>
+    <ID>77</ID>
+    <Name>La gelaxi?me dimension</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>78</ID>
+    <Name>//La gelaxi?me dimension (royale)</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>79</ID>
+    <Name>Premi?re plate-forme</Name>
+    <Area>14</Area>
+  </SubArea>
+  <SubArea>
+    <ID>80</ID>
+    <Name>Seconde plate-forme</Name>
+    <Area>14</Area>
+  </SubArea>
+  <SubArea>
+    <ID>81</ID>
+    <Name>Prisme Brigandin</Name>
+    <Area>14</Area>
+  </SubArea>
+  <SubArea>
+    <ID>82</ID>
+    <Name>Donjon des Bouftous</Name>
+    <Area>4</Area>
+  </SubArea>
+  <SubArea>
+    <ID>83</ID>
+    <Name>//Tutorial</Name>
+    <Area>17</Area>
+  </SubArea>
+  <SubArea>
+    <ID>84</ID>
+    <Name>//Foire du Trool</Name>
+    <Area>15</Area>
+  </SubArea>
+  <SubArea>
+    <ID>85</ID>
+    <Name>//Jeu du Bouftou</Name>
+    <Area>16</Area>
+  </SubArea>
+  <SubArea>
+    <ID>86</ID>
+    <Name>Gladiatrool</Name>
+    <Area>15</Area>
+  </SubArea>
+  <SubArea>
+    <ID>87</ID>
+    <Name>//Amakna Sud</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>88</ID>
+    <Name>//Tainela</Name>
+    <Area>17</Area>
+  </SubArea>
+  <SubArea>
+    <ID>89</ID>
+    <Name>Tournoi Monde du Jeu</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>91</ID>
+    <Name>Souterrain myst?rieux</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>92</ID>
+    <Name>Contour d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>93</ID>
+    <Name>La plage de Moon</Name>
+    <Area>2</Area>
+  </SubArea>
+  <SubArea>
+    <ID>94</ID>
+    <Name>Donjon du Bworker</Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>95</ID>
+    <Name>Cit? d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>96</ID>
+    <Name>Exploitation mini?re d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>97</ID>
+    <Name>For?t d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>98</ID>
+    <Name>Champs d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>99</ID>
+    <Name>Souterrain d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>100</ID>
+    <Name>Souterrain profond d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>101</ID>
+    <Name>Le coin des Tofus</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>102</ID>
+    <Name>Le champ du repos</Name>
+    <Area>25</Area>
+  </SubArea>
+  <SubArea>
+    <ID>103</ID>
+    <Name>Territoire des Bandits</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>105</ID>
+    <Name>//Pandala Neutre</Name>
+    <Area>19</Area>
+  </SubArea>
+  <SubArea>
+    <ID>106</ID>
+    <Name>Bordure d'Akwadala</Name>
+    <Area>20</Area>
+  </SubArea>
+  <SubArea>
+    <ID>107</ID>
+    <Name>Bordure de Feudala</Name>
+    <Area>22</Area>
+  </SubArea>
+  <SubArea>
+    <ID>108</ID>
+    <Name>Bordure d'Aerdala</Name>
+    <Area>23</Area>
+  </SubArea>
+  <SubArea>
+    <ID>109</ID>
+    <Name>Bordure de Terrdala</Name>
+    <Area>21</Area>
+  </SubArea>
+  <SubArea>
+    <ID>110</ID>
+    <Name>//Amakna pass? </Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>111</ID>
+    <Name>Porte Aerdala</Name>
+    <Area>23</Area>
+  </SubArea>
+  <SubArea>
+    <ID>112</ID>
+    <Name>Porte Feudala</Name>
+    <Area>22</Area>
+  </SubArea>
+  <SubArea>
+    <ID>113</ID>
+    <Name>Porte Akwadala</Name>
+    <Area>20</Area>
+  </SubArea>
+  <SubArea>
+    <ID>114</ID>
+    <Name>Porte Terrdala</Name>
+    <Area>21</Area>
+  </SubArea>
+  <SubArea>
+    <ID>115</ID>
+    <Name>Village d'Aerdala</Name>
+    <Area>23</Area>
+  </SubArea>
+  <SubArea>
+    <ID>116</ID>
+    <Name>Village de Feudala</Name>
+    <Area>22</Area>
+  </SubArea>
+  <SubArea>
+    <ID>117</ID>
+    <Name>Village d'Akwadala</Name>
+    <Area>20</Area>
+  </SubArea>
+  <SubArea>
+    <ID>118</ID>
+    <Name>Village de Terrdala</Name>
+    <Area>21</Area>
+  </SubArea>
+  <SubArea>
+    <ID>119</ID>
+    <Name>Village de Pandala</Name>
+    <Area>19</Area>
+  </SubArea>
+  <SubArea>
+    <ID>120</ID>
+    <Name>Prisme Aerdala</Name>
+    <Area>23</Area>
+  </SubArea>
+  <SubArea>
+    <ID>121</ID>
+    <Name>Prisme Feudala</Name>
+    <Area>22</Area>
+  </SubArea>
+  <SubArea>
+    <ID>122</ID>
+    <Name>Prisme Akwadala</Name>
+    <Area>20</Area>
+  </SubArea>
+  <SubArea>
+    <ID>123</ID>
+    <Name>Prisme Terrdala</Name>
+    <Area>21</Area>
+  </SubArea>
+  <SubArea>
+    <ID>124</ID>
+    <Name>Caverne des Bulbes</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>125</ID>
+    <Name>Repaire des Pandikazes - Premi?re plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>126</ID>
+    <Name>Repaire des Pandikazes - Seconde plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>127</ID>
+    <Name>Repaire des Pandikazes - Troisi?me plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>128</ID>
+    <Name>Repaire des Pandikazes - Quatri?me plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>129</ID>
+    <Name>Repaire des Pandikazes - Cinqui?me plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>130</ID>
+    <Name>Repaire des Pandikazes - Sixi?me plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>131</ID>
+    <Name>Repaire des Pandikazes - Septi?me plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>132</ID>
+    <Name>Repaire des Pandikazes - Huiti?me plate-forme</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>133</ID>
+    <Name>Donjon des Kitsounes - Salle 1</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>134</ID>
+    <Name>Donjon des Kitsounes - Salle 2</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>135</ID>
+    <Name>Donjon des Kitsounes - Salle 3</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>136</ID>
+    <Name>Donjon des Kitsounes - Salle 4</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>137</ID>
+    <Name>Donjon des Kitsounes - Salle 4</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>138</ID>
+    <Name>Donjon des Kitsounes - Salle 4</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>139</ID>
+    <Name>Donjon des Kitsounes - Salle 5</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>140</ID>
+    <Name>Donjon des Kitsounes - Salle 6</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>141</ID>
+    <Name>Donjon des Kitsounes - Repaire du Tanukou? </Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>143</ID>
+    <Name>Pont de Pandala</Name>
+    <Area>19</Area>
+  </SubArea>
+  <SubArea>
+    <ID>144</ID>
+    <Name>Donjon des Firefoux</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>145</ID>
+    <Name>Donjon des Firefoux - Salle 1</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>146</ID>
+    <Name>Donjon des Firefoux - Salle 2</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>147</ID>
+    <Name>Donjon des Firefoux - Salle 3</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>148</ID>
+    <Name>Donjon des Firefoux - Salle 4</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>149</ID>
+    <Name>Donjon des Firefoux - Salle 5</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>150</ID>
+    <Name>Donjon des Firefoux - Salle 6</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>151</ID>
+    <Name>Donjon des Firefoux - Salle 7</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>152</ID>
+    <Name>L'?le de Grobe</Name>
+    <Area>19</Area>
+  </SubArea>
+  <SubArea>
+    <ID>153</ID>
+    <Name>Repaire des Pandikazes - Plate-forme finale</Name>
+    <Area>24</Area>
+  </SubArea>
+  <SubArea>
+    <ID>154</ID>
+    <Name>//Donjon Cochon - Salle 1</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>155</ID>
+    <Name>//Donjon Cochon - Salle 2</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>156</ID>
+    <Name>//Donjon Cochon - Salle 3</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>157</ID>
+    <Name>//Donjon Cochon - Salle 4</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>158</ID>
+    <Name>//Donjon Cochon - Salle 5</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>159</ID>
+    <Name>//Donjon Cochon - Salle 6</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>161</ID>
+    <Name>Ile des Wabbits</Name>
+    <Area>1</Area>
+  </SubArea>
+  <SubArea>
+    <ID>162</ID>
+    <Name>Ilot des Wabbits</Name>
+    <Area>1</Area>
+  </SubArea>
+  <SubArea>
+    <ID>163</ID>
+    <Name>Ile des Wabbits Squelettes</Name>
+    <Area>1</Area>
+  </SubArea>
+  <SubArea>
+    <ID>164</ID>
+    <Name>?le du ch?teau des Wabbits</Name>
+    <Area>1</Area>
+  </SubArea>
+  <SubArea>
+    <ID>165</ID>
+    <Name>La jungle profonde de Moon</Name>
+    <Area>2</Area>
+  </SubArea>
+  <SubArea>
+    <ID>166</ID>
+    <Name>Le chemin vers Moon</Name>
+    <Area>2</Area>
+  </SubArea>
+  <SubArea>
+    <ID>167</ID>
+    <Name>Le bateau pirate</Name>
+    <Area>2</Area>
+  </SubArea>
+  <SubArea>
+    <ID>168</ID>
+    <Name>For?t des Abraknydes Sombres</Name>
+    <Area>6</Area>
+  </SubArea>
+  <SubArea>
+    <ID>169</ID>
+    <Name>Or?e de la for?t des Abraknydes</Name>
+    <Area>6</Area>
+  </SubArea>
+  <SubArea>
+    <ID>170</ID>
+    <Name>Plaine des Scarafeuilles</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>171</ID>
+    <Name>For?t de Pandala</Name>
+    <Area>19</Area>
+  </SubArea>
+  <SubArea>
+    <ID>173</ID>
+    <Name>Prairies d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>174</ID>
+    <Name>Campement des Bandits Manchots</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>175</ID>
+    <Name>//Donjon Abraknyde - Salle 1</Name>
+    <Area>27</Area>
+  </SubArea>
+  <SubArea>
+    <ID>177</ID>
+    <Name>Prairie des Blops</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>178</ID>
+    <Name>Plaine des Porkass</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>179</ID>
+    <Name>Le coin des Boos</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>180</ID>
+    <Name>Le ch?teau d'Amakna</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>181</ID>
+    <Name>Souterrain du Ch?teau d'Amakna</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>182</ID>
+    <Name>Village des Eleveurs</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>200</ID>
+    <Name>//Labyrinthe du Dragon Cochon</Name>
+    <Area>26</Area>
+  </SubArea>
+  <SubArea>
+    <ID>201</ID>
+    <Name>//Donjon des Tofus - Salle 1</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>202</ID>
+    <Name>//Donjon des Tofus - Salle 2</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>203</ID>
+    <Name>//Donjon des Tofus - Salle 3</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>204</ID>
+    <Name>//Donjon des Tofus - Salle 4</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>205</ID>
+    <Name>//Donjon des Tofus - Salle 5</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>206</ID>
+    <Name>//Donjon des Tofus - Salle 6</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>207</ID>
+    <Name>//Donjon des Tofus - Salle 7</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>208</ID>
+    <Name>//Donjon des Tofus - Salle 8</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>209</ID>
+    <Name>L'?le du Minotoror</Name>
+    <Area>30</Area>
+  </SubArea>
+  <SubArea>
+    <ID>210</ID>
+    <Name>Le labyrinthe du Minotoror</Name>
+    <Area>31</Area>
+  </SubArea>
+  <SubArea>
+    <ID>211</ID>
+    <Name>La biblioth?que du Ma?tre Corbac</Name>
+    <Area>32</Area>
+  </SubArea>
+  <SubArea>
+    <ID>212</ID>
+    <Name>//Donjon des Canid?s - Entr?e</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>213</ID>
+    <Name>//Donjon des Canid?s - Salle 1</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>214</ID>
+    <Name>//Donjon des Canid?s - Salle 2</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>215</ID>
+    <Name>//Donjon des Canid?s - Salle 3</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>216</ID>
+    <Name>//Donjon des Canid?s - Salle 4</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>217</ID>
+    <Name>//Donjon des Canid?s - Salle 5</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>218</ID>
+    <Name>//Donjon des Canid?s - Salle 6</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>219</ID>
+    <Name>//Donjon des Canid?s - Salle 7</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>220</ID>
+    <Name>//Donjon des Canid?s - Salle 8</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>221</ID>
+    <Name>//Donjon des Canid?s - Salle 9</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>222</ID>
+    <Name>//Donjon des Canid?s - Salle 10</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>223</ID>
+    <Name>//Caverne du Koulosse - Salle 1</Name>
+    <Area>34</Area>
+  </SubArea>
+  <SubArea>
+    <ID>224</ID>
+    <Name>//Caverne du Koulosse - Salle 2</Name>
+    <Area>34</Area>
+  </SubArea>
+  <SubArea>
+    <ID>225</ID>
+    <Name>//Caverne du Koulosse - Salle 3</Name>
+    <Area>34</Area>
+  </SubArea>
+  <SubArea>
+    <ID>226</ID>
+    <Name>//Caverne du Koulosse - Salle 4</Name>
+    <Area>34</Area>
+  </SubArea>
+  <SubArea>
+    <ID>227</ID>
+    <Name>//Caverne du Koulosse - Salle 5</Name>
+    <Area>34</Area>
+  </SubArea>
+  <SubArea>
+    <ID>228</ID>
+    <Name>//Caverne du Koulosse - Salle 6</Name>
+    <Area>34</Area>
+  </SubArea>
+  <SubArea>
+    <ID>229</ID>
+    <Name>//Caverne du Koulosse - L'antre</Name>
+    <Area>34</Area>
+  </SubArea>
+  <SubArea>
+    <ID>230</ID>
+    <Name>Cimeti?re primitif</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>231</ID>
+    <Name>Lacs enchant?s</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>232</ID>
+    <Name>Mar?cages naus?abonds</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>233</ID>
+    <Name>Mar?cages sans fond</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>234</ID>
+    <Name>For?t de Kaliptus</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>235</ID>
+    <Name>Territoire des Dragodindes Sauvages</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>236</ID>
+    <Name>Sanctuaire des Familiers</Name>
+    <Area>36</Area>
+  </SubArea>
+  <SubArea>
+    <ID>243</ID>
+    <Name>//Donjon des Craqueleurs - Salle 1</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>244</ID>
+    <Name>//Donjon des Craqueleurs - Salle 2</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>245</ID>
+    <Name>//Donjon des Craqueleurs - Salle 3</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>246</ID>
+    <Name>//Donjon des Craqueleurs - Salle 4</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>247</ID>
+    <Name>//Donjon des Craqueleurs - Salle 5</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>248</ID>
+    <Name>//Donjon des Craqueleurs - Salle 6</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>249</ID>
+    <Name>//Donjon des Craqueleurs - Salle 7</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>250</ID>
+    <Name>//Donjon des Craqueleurs - Salle 8</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>251</ID>
+    <Name>//Donjon des Craqueleurs - Salle 10</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>252</ID>
+    <Name>//Donjon des Craqueleurs - Salle 11</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>253</ID>
+    <Name>Canyon sauvage</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>254</ID>
+    <Name>//Repaire de Skeunk - Salle 1</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>255</ID>
+    <Name>//Repaire de Skeunk - Salle 2</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>256</ID>
+    <Name>//Repaire de Skeunk - Salle 3</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>257</ID>
+    <Name>//Repaire de Skeunk - Emeraude</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>258</ID>
+    <Name>//Repaire de Skeunk - Rubise</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>259</ID>
+    <Name>//Repaire de Skeunk - Saphira</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>260</ID>
+    <Name>//Repaire de Skeunk - Diamantine</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>261</ID>
+    <Name>//Repaire de Skeunk - Antre</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>266</ID>
+    <Name>//Repaire de Skeunk - Salle 4</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>267</ID>
+    <Name>//Repaire de Skeunk - Salle 5</Name>
+    <Area>35</Area>
+  </SubArea>
+  <SubArea>
+    <ID>268</ID>
+    <Name>//Donjon des Tofus - Salle 9</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>269</ID>
+    <Name>//Donjon des Tofus - Salle 10</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>270</ID>
+    <Name>//Donjon des Tofus - Salle 11</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>271</ID>
+    <Name>//Donjon des Tofus - Salle 12</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>272</ID>
+    <Name>//Donjon des Tofus - Salle 13</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>273</ID>
+    <Name>//Donjon des Tofus - Salle 14</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>274</ID>
+    <Name>//Donjon des Tofus - Salle 15</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>275</ID>
+    <Name>Vall?e de la Morh'Kitu</Name>
+    <Area>28</Area>
+  </SubArea>
+  <SubArea>
+    <ID>276</ID>
+    <Name>Campement des Gobelins</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>277</ID>
+    <Name>Village des Bworks</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>278</ID>
+    <Name>Elevage de Bouftous du Ch?teau d'Amakna</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>279</ID>
+    <Name>Bordure de Bonta</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>280</ID>
+    <Name>Bordure de Br?kmar</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>284</ID>
+    <Name>//Donjon des Bworks - Salle 1</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>285</ID>
+    <Name>//Donjon des Bworks - Salle 2</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>286</ID>
+    <Name>//Donjon des Bworks - Salle 3</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>287</ID>
+    <Name>//Donjon des Bworks - Cachot</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>288</ID>
+    <Name>//Donjon des Bworks - Salle 4</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>289</ID>
+    <Name>//Donjon des Bworks - Salle 5</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>290</ID>
+    <Name>//Donjon des Bworks - Salle 6</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>291</ID>
+    <Name>//Donjon des Bworks - Salle 7</Name>
+    <Area>39</Area>
+  </SubArea>
+  <SubArea>
+    <ID>292</ID>
+    <Name>//Donjon des Canid?s - Salle 11</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>293</ID>
+    <Name>//Donjon des Canid?s - Salle 12</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>294</ID>
+    <Name>//Donjon des Canid?s - Salle 13</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>295</ID>
+    <Name>//Donjon des Canid?s - Salle 14</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>296</ID>
+    <Name>//Donjon des Canid?s - Salle 15</Name>
+    <Area>33</Area>
+  </SubArea>
+  <SubArea>
+    <ID>297</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 1</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>298</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 2</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>299</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 3</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>300</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 4</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>301</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 5</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>302</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 6</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>303</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 7</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>304</ID>
+    <Name>//Donjon des Scarafeuilles - Salle 8</Name>
+    <Area>40</Area>
+  </SubArea>
+  <SubArea>
+    <ID>306</ID>
+    <Name>//Donjon des Champs - Salle 1</Name>
+    <Area>41</Area>
+  </SubArea>
+  <SubArea>
+    <ID>307</ID>
+    <Name>//Donjon des Champs - Salle 2</Name>
+    <Area>41</Area>
+  </SubArea>
+  <SubArea>
+    <ID>308</ID>
+    <Name>//Donjon des Champs - Salle 3</Name>
+    <Area>41</Area>
+  </SubArea>
+  <SubArea>
+    <ID>309</ID>
+    <Name>//Donjon des Champs - Salle 4</Name>
+    <Area>41</Area>
+  </SubArea>
+  <SubArea>
+    <ID>310</ID>
+    <Name>//Donjon des Champs - Salle 5</Name>
+    <Area>41</Area>
+  </SubArea>
+  <SubArea>
+    <ID>311</ID>
+    <Name>//Donjon des Champs - Salle 6</Name>
+    <Area>41</Area>
+  </SubArea>
+  <SubArea>
+    <ID>312</ID>
+    <Name>//Donjon des Champs - Salle 7</Name>
+    <Area>41</Area>
+  </SubArea>
+  <SubArea>
+    <ID>313</ID>
+    <Name>//Donjon des Tofus - Salle 16</Name>
+    <Area>29</Area>
+  </SubArea>
+  <SubArea>
+    <ID>314</ID>
+    <Name>Sanctuaire des Dragoeufs</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>315</ID>
+    <Name>Village des Dragoeufs</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>316</ID>
+    <Name>Sous terrain des Dragoeufs</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>317</ID>
+    <Name>//Donjon des Craqueleurs - Salle 9</Name>
+    <Area>37</Area>
+  </SubArea>
+  <SubArea>
+    <ID>318</ID>
+    <Name>Alkatraz</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>319</ID>
+    <Name>Le labyrinthe du Minotoror</Name>
+    <Area>31</Area>
+  </SubArea>
+  <SubArea>
+    <ID>320</ID>
+    <Name>L'?le de Nowel</Name>
+    <Area>42</Area>
+  </SubArea>
+  <SubArea>
+    <ID>321</ID>
+    <Name>Le donjon de Nowel</Name>
+    <Area>42</Area>
+  </SubArea>
+  <SubArea>
+    <ID>322</ID>
+    <Name>//Donjon Cochon - Salle 7</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>323</ID>
+    <Name>//Donjon Cochon - Salle 8</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>324</ID>
+    <Name>//Donjon Cochon - Salle 9</Name>
+    <Area>43</Area>
+  </SubArea>
+  <SubArea>
+    <ID>325</ID>
+    <Name>//Donjon Dragoeuf - Salle 1</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>326</ID>
+    <Name>//Donjon Dragoeuf - Salle 2</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>327</ID>
+    <Name>//Donjon Dragoeuf - Salle 3</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>328</ID>
+    <Name>//Donjon Dragoeuf - Salle 4</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>329</ID>
+    <Name>//Donjon Dragoeuf - Salle 5</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>330</ID>
+    <Name>//Donjon Dragoeuf - Salle 6</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>331</ID>
+    <Name>//Donjon Dragoeuf - Salle 7</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>332</ID>
+    <Name>//Donjon Dragoeuf - Salle 8</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>333</ID>
+    <Name>//Donjon Dragoeuf - Salle 9</Name>
+    <Area>44</Area>
+  </SubArea>
+  <SubArea>
+    <ID>334</ID>
+    <Name>Baie de Cania</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>335</ID>
+    <Name>Calanques d'Astrub</Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>336</ID>
+    <Name>Donjon Ensabl? </Name>
+    <Area>18</Area>
+  </SubArea>
+  <SubArea>
+    <ID>337</ID>
+    <Name>Donjon des Rats de Bonta</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>338</ID>
+    <Name>Donjon des Rats de Br?kmar</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>339</ID>
+    <Name>Donjon des Rats du Ch?teau d'Amakna</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>440</ID>
+    <Name>Pitons rocheux</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>441</ID>
+    <Name>Clairi?re</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>442</ID>
+    <Name>Lac</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>443</ID>
+    <Name>For?t</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>444</ID>
+    <Name>Champs</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>445</ID>
+    <Name>Prairie</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>446</ID>
+    <Name>Temple</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>447</ID>
+    <Name>Donjon</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>448</ID>
+    <Name>//Divers</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>449</ID>
+    <Name>Cimeti?re</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>450</ID>
+    <Name>//Sortie du temple</Name>
+    <Area>45</Area>
+  </SubArea>
+  <SubArea>
+    <ID>451</ID>
+    <Name>Ile des naufrag?s</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>452</ID>
+    <Name>Mer</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>453</ID>
+    <Name>Plage de Corail</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>454</ID>
+    <Name>Plaines herbeuses</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>455</ID>
+    <Name>Jungle obscure</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>457</ID>
+    <Name>Tourbi?re sans fond</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>459</ID>
+    <Name>Canop?e du Kimbo</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>460</ID>
+    <Name>Grotte Hesque</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>461</ID>
+    <Name>L'arche d'Otoma? </Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>462</ID>
+    <Name>La clairi?re de Floribonde</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>463</ID>
+    <Name>Le laboratoire du Tynril</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>464</ID>
+    <Name>Tronc de l'arbre Hakam</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>465</ID>
+    <Name>Le village des ?leveurs</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>466</ID>
+    <Name>Le village c?tier</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>467</ID>
+    <Name>Cimeti?re de l'?le d'Otoma? </Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>468</ID>
+    <Name>//Village des Zoths</Name>
+    <Area>47</Area>
+  </SubArea>
+  <SubArea>
+    <ID>469</ID>
+    <Name>Village de la Canop?e</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>470</ID>
+    <Name>Goulet du Rasboul</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>471</ID>
+    <Name>Tourbi?re naus?abonde</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>472</ID>
+    <Name>Feuillage de L'arbre Hakam</Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>473</ID>
+    <Name>Le laboratoire cach? </Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>474</ID>
+    <Name>Cale de l'arche d'Otoma? </Name>
+    <Area>46</Area>
+  </SubArea>
+  <SubArea>
+    <ID>476</ID>
+    <Name>Pont de Grobe</Name>
+    <Area>19</Area>
+  </SubArea>
+  <SubArea>
+    <ID>477</ID>
+    <Name>Prisme Zothier</Name>
+    <Area>47</Area>
+  </SubArea>
+  <SubArea>
+    <ID>478</ID>
+    <Name>//Gardiens de la porte des Zoths</Name>
+    <Area>47</Area>
+  </SubArea>
+  <SubArea>
+    <ID>479</ID>
+    <Name>Rivi?re Kawaii</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>480</ID>
+    <Name>Montagne basse des Craqueleurs</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>481</ID>
+    <Name>Clairi?re de Brouce Boulgour</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>482</ID>
+    <Name>La Millifutaie </Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>483</ID>
+    <Name>Le chemin de fer abandonn? </Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>484</ID>
+    <Name>Or?e de la Millifutaie</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>485</ID>
+    <Name>La campagne</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>486</ID>
+    <Name>Le Bosquet du petit talus</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>487</ID>
+    <Name>Grenier-Cachot de Pandala Air</Name>
+    <Area>19</Area>
+  </SubArea>
+  <SubArea>
+    <ID>488</ID>
+    <Name>Souterrains d'Amakna</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>490</ID>
+    <Name>Rivage du golfe sufokien</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>491</ID>
+    <Name>Donjon des Larves</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>492</ID>
+    <Name>Passage vers Br?kmar</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>493</ID>
+    <Name>Donjon des Blops</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>494</ID>
+    <Name>Donjon Fungus</Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>495</ID>
+    <Name>Caverne des Fungus</Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>496</ID>
+    <Name>Donjon de Ku'tan</Name>
+    <Area>12</Area>
+  </SubArea>
+  <SubArea>
+    <ID>497</ID>
+    <Name>Donjon d'Ilyzaelle</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>498</ID>
+    <Name>Sanctuaire Hotomani</Name>
+    <Area>8</Area>
+  </SubArea>
+  <SubArea>
+    <ID>499</ID>
+    <Name>Cimeti?re de l'?le du Minotoror</Name>
+    <Area>30</Area>
+  </SubArea>
+  <SubArea>
+    <ID>500</ID>
+    <Name>Cimeti?re du village des Zoths.</Name>
+    <Area>47</Area>
+  </SubArea>
+  <SubArea>
+    <ID>501</ID>
+    <Name>L'?lot Estitch</Name>
+    <Area>0</Area>
+  </SubArea>
+  <SubArea>
+    <ID>502</ID>
+    <Name>Quartier des b?cherons</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>503</ID>
+    <Name>Quartier des bouchers</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>504</ID>
+    <Name>Quartier de la milice</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>505</ID>
+    <Name>Quartier des boulangers</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>506</ID>
+    <Name>Quartier des bijoutiers</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>507</ID>
+    <Name>Quartier des tailleurs</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>508</ID>
+    <Name>Quartier des forgerons</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>509</ID>
+    <Name>Quartier des bricoleurs</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>510</ID>
+    <Name>Ar?ne</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>511</ID>
+    <Name>Centre-ville</Name>
+    <Area>11</Area>
+  </SubArea>
+  <SubArea>
+    <ID>512</ID>
+    <Name>Ar?ne</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>513</ID>
+    <Name>Centre-ville</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>514</ID>
+    <Name>Tour des ordres</Name>
+    <Area>7</Area>
+  </SubArea>
+  <SubArea>
+    <ID>515</ID>
+    <Name>Tour des ordres</Name>
+    <Area>11</Area>
+  </SubArea>
+</ArrayOfSubArea>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

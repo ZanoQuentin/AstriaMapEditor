@@ -45,6 +45,7 @@ Public Class Main
     Public ListOfMapEditors As New List(Of MapEditor)
 
     Public Const Link_PHP As String = "http://quenttiin.alwaysdata.net/ame_manager.php"
+    ' Supprimé pour le login et l'obtention des XML, par contre sert pour : ImportMapByBDD (importation de maps directement depuis sa DB)
 
     Enum Tools
         Brush
@@ -65,13 +66,6 @@ Public Class Main
 #Region " Chargements "
 
     Private Sub Main_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        Dim client As New WebClient
-        If Not client.DownloadString(Main.Link_PHP & "?test=1&hwid=" & Main.Get_HWID()) = "1" Then
-            Dim conect As New Connexion
-            conect.ShowDialog()
-            If Not conect.connected Then End
-            conect.Dispose()
-        End If
 
         Me.KeyPreview = True
         Me.AllowDrop = True
